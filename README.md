@@ -140,8 +140,6 @@ pip install pandas matplotlib seaborn jupyter
 ## 📌 What's Next
 
 - [ ] Build a classification model (Random Forest / Logistic Regression) to predict quality
-- [ ] Address class imbalance using SMOTE or class weighting
-- [ ] Bin quality into Low / Medium / High for a simpler 3-class problem
 - [ ] Feature engineering — interaction terms between correlated features
 
 ---
